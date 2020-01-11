@@ -20,7 +20,17 @@ The notebook is also available inside this repository [here](./PyCitySchools/sch
 
 In this notebook, you will find the following:
 
-### District Summary
+* [District Summary](#district_summary)
+* [School Summary](#school_summary)
+* [Top Performing Schools](#top_performing_schools)
+* [Bottom Performing Schools](#bottom_performing_schools)
+* [Math Scores By Grade](#math_scores_by_grade)
+* [Reading Scores By Grade](#reading_scores_by_grade)
+* [Scores By School Spending](#scores_by_school_spending)
+* [Scores By School Size](#scores_by_school_size)
+* [scores By School Type](#scores_by_school_type)
+
+### <a name="district_summary"></a>District Summary
 
 * The district summary is a high level snapshot (in table form) of the district's key metrics, including:
   * Total schools.
@@ -32,7 +42,7 @@ In this notebook, you will find the following:
   * Percent passing reading.
   * Overall passing rate (the average of the above two).
 
-### School Summary
+### <a name="school_summary"></a>School Summary
 
 * The school summary is an overview table that summarizes key metrics about each school, including:
   * School name.
@@ -46,7 +56,7 @@ In this notebook, you will find the following:
   * Percent passing reading.
   * Overall passing rate (the average of the above two).
 
-### Top Performing Schools (By Passing Rate)
+### <a name="top_performing_schools"></a>Top Performing Schools (By Passing Rate)
 
 * This is a table that highlights the top 5 performing schools based on overall passing rate. It includes:
   * School name.
@@ -60,19 +70,19 @@ In this notebook, you will find the following:
   * Percent passing reading.
   * Overall passing rate (Average of the above two).
 
-### Bottom Performing Schools (By Passing Rate)
+### <a name="bottom_performing_schools"></a>Bottom Performing Schools (By Passing Rate)
 
 * This is a table that highlights the bottom 5 performing schools based on overall passing rate. It includes the same metrics as the table for top performing schools based on overall passing rate.
 
-### Math Scores By Grade
+### <a name="math_scores_by_grade"></a>Math Scores By Grade
 
 * This is a table that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-### Reading Scores By Grade
+### <a name="reading_scores_by_grade"></a>Reading Scores By Grade
 
 * This is a table that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-### Scores by School Spending
+### <a name="scores_by_school_spending"></a>Scores by School Spending
 
 * This is a table that breaks down school performances based on average spending ranges (per student), which includes:
   * Average math score.
@@ -81,11 +91,11 @@ In this notebook, you will find the following:
   * Percent passing reading.
   * Overall passing rate (Average of the above two).
 
-### Scores by School Size
+### <a name="scores_by_school_size"></a>Scores by School Size
 
 * This is a table that breaks down school performances based on school size (small, medium, and large). It includes the same metrics as the table for scores by school spending.
 
-### Scores by School Type
+### <a name="scores_by_school_type"></a>Scores by School Type
 
 * This is a table that breaks down school performance based on school type (District vs Charter). It includes the same metrics as the table for scores by school spending.
 
