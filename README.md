@@ -4,7 +4,7 @@ Data analysis of district-wide standardized test results for math and reading. U
 
 ## Background
 
-I started with 2 csv files. Both of these files can be found [here](./Resources). One csv file includes information about the students in the district, such as, name, grade, school name, reading score, and math score. The other csv file includes information about the schools in the district, such as, type, size, and budget. For this analysis, I loaded the two csv files into pandas dataframes. I merged these two dataframes based on school name to create a combined dataframe. I used the combined dataframe to analyze and find trends in school performance.
+I started with 2 csv files. Both of these files can be found [here](./PyCitySchools/Resources). One csv file includes information about the students in the district, such as, name, grade, school name, reading score, and math score. The other csv file includes information about the schools in the district, such as, type, size, and budget. For this analysis, I loaded the two csv files into pandas dataframes. I merged these two dataframes based on school name to create a combined dataframe. I used the combined dataframe to analyze and find trends in school performance.
 
 ## Jupyter Notebook
 
