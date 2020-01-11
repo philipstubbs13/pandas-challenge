@@ -2,11 +2,15 @@
 
 Data analysis of district-wide standardized test results for math and reading. Used the pandas library to aggregate and manipulate data to help uncover trends and improve school performance.
 
-## Background
+* [Background](#background)
+* [Jupyter Notebook](#nb)
+* [Technologies Used](#technologies)
+
+##  <a name="background"></a>Background
 
 I started with 2 csv files. Both of these files can be found [here](./PyCitySchools/Resources). One csv file includes information about the students in the district, such as, name, grade, school name, reading score, and math score. The other csv file includes information about the schools in the district, such as, type, size, and budget. For this analysis, I loaded the two csv files into pandas dataframes. I merged these two dataframes based on school name to create a combined dataframe. I used the combined dataframe to analyze and find trends in school performance.
 
-## Jupyter Notebook
+##  <a name="nb"></a>Jupyter Notebook
 
 For this project, I used jupyter notebook to render and display the results of this analysis. You can view the notebook here:
 
@@ -68,7 +72,7 @@ In this notebook, you will find the following:
   * Scores by School Type
     * This is a table that breaks down school performance based on school type (District vs Charter). It includes the same metrics as the table for scores by school spending.
 
-## Technologies Used
+##  <a name="technologies"></a>Technologies Used
 
 * Python
 * Pandas library
