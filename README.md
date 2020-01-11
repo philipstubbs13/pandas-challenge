@@ -28,7 +28,7 @@ In this notebook, you will find the following:
 * [Reading Scores By Grade](#reading_scores_by_grade)
 * [Scores By School Spending](#scores_by_school_spending)
 * [Scores By School Size](#scores_by_school_size)
-* [scores By School Type](#scores_by_school_type)
+* [Scores By School Type](#scores_by_school_type)
 
 ### <a name="district_summary"></a>District Summary
 
